@@ -1,0 +1,53 @@
+{
+  "title": "Thaumaturge's Wrath",
+  "name": "foundry-pf2e-thaumaturges-wrath",
+  "description": "",
+  "manifest": "",
+  "download": "",
+  "url": "",
+  "authors": [
+    {
+      "name": "Luigi Lizza",
+      "discord": "Luigi#9626"
+    },
+    {
+      "name": "Braden Menke"
+    },
+    {
+      "name": "Marcaline Miller"
+    },
+    {
+      "name": "Shawn Pommier"
+    },
+    {
+      "name": "Dylan Wokeck"
+    },
+    {
+      "name": "Victoria Sullivan"
+    }
+  ],
+  "version": "v1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.286"
+  },
+  "relationships": {
+    "systems": {
+      "id": "pf2e",
+      "manifest": "https://github.com/foundryvtt/pf2e/releases/download/latest/system.json",
+      "compatibility": {
+        "minimum": "4.0.0"
+      }
+    }
+  },
+  "packs": [
+    {
+      "name": "thaumaturges-wrath",
+      "label": "Thaumaturge's Wrath",
+      "path": "./packs/thaumaturges-wrath.db",
+      "type": "Item",
+      "module": "Thaumaturge's Wrath",
+      "system": "pf2e"
+    }
+  ]
+}
