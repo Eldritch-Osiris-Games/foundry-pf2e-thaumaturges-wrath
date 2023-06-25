@@ -1,6 +1,6 @@
 {
   "title": "PF2e Thaumaturge's Wrath",
-  "name": "foundry-pf2e-thaumaturges-wrath",
+  "id": "foundry-pf2e-thaumaturges-wrath",
   "description": "",
   "manifest": "https://raw.githubusercontent.com/Eldritch-Osiris-Games/foundry-pf2e-thaumaturges-wrath/main/module.json",
   "download": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-thaumaturges-wrath/archive/refs/heads/main.zip",
